@@ -1,4 +1,4 @@
-180201145-Berk Sunduri
+# Counting-Words-with-Linked-Lists-with-C
 Proje Menü ile çalışmaktadır. Yapmak istediğiniz tüm işlemler menüde bulunmaktadır.
 Menü Program çalıştırıldığında başta gözükür eğer tekrar menüyü görmek isterseniz 0 ı tuşlamanız yeterlidir.
 Bu menü sayesinde yapmak istediğiniz işlemi kolayca seçebilirsiniz.
